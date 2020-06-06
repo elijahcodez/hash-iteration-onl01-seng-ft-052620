@@ -12,6 +12,7 @@ end
 
 def age_appropriate_birthday(birthday_kids)
   if birthday_kids > 12
-    puts 
+    puts "You are too old for this."
+  end
   
 end
